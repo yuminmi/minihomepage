@@ -18,3 +18,6 @@
 
 ## footer 페이지 (FOOTER.md)
 footer 페이지를 추가함.
+
+## sidebar 페이지 (SIDEBAR.md)
+sidebar 페이지를 추가함.
